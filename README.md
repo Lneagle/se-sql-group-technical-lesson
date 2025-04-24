@@ -10,7 +10,7 @@ At this point, we really should begin to see the power that the simplicity of SQ
 
 ### Set Up
 
-* Fork and Clone the Lab
+* Fork and Clone the GitHub Repo
 * Install dependencies and open the virtual environment
     * `pipenv install`
     * `pipenv shell`
